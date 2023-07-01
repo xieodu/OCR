@@ -1,0 +1,2 @@
+2023/07/01 14:18:35 - TRAIN - INFO - ²ÎÊý£º
+2023/07/01 14:18:35 - TRAIN - INFO - Namespace(batch_size=256, epochs=30, use_cuda=False, datapath='D:\\project\\AI_course-master\\MNIST_Dataset\\train_images', model='Net', save_name=None, cuda=False)
