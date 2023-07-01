@@ -1,3 +1,5 @@
+#####期末作业只需阅读：## 手写字符识别  classify_pytorch目录下readme
+ 
 # AI_course
 
 # 请仔细阅读各实例的readme
